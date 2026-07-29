@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="car data.csv" />
+  </Folder>
+  <Project Path="CodeAlpha_CarPricePrediction.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="567045de-7e8d-488a-9fbc-0c65390cf1b3">
+    <Build Project="false" />
+  </Project>
+</Solution>

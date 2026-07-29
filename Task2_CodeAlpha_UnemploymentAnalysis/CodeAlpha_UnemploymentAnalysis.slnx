@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Data/Unemployment in India.csv" />
+    <File Path="Data/Unemployment_Rate_upto_11_2020.csv" />
+  </Folder>
+  <Project Path="CodeAlpha_UnemploymentAnalysis.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="14c18063-0c34-4e97-8e16-fb585941c8dd">
+    <Build Project="false" />
+  </Project>
+</Solution>
